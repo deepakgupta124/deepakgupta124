@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying B.Tech from IIIT Allahabad
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about flutter or any android releted stuff
-- 📫 How to reach me: [linkdin](https://www.linkedin.com/in/deepak-gupta-675a1b191/) 
+- 📫 How to reach me: [Gmail](mailto:guptadeepak2907@gmail.com), [Linkdin](https://www.linkedin.com/in/deepak-gupta-675a1b191/) 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ☺ ♥ ☺
 
