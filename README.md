@@ -6,10 +6,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: :blush: :heart: :blush:
 
-<a href="https://github.com/deepakgupta124">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakgupta124&theme=dark&hide_langs_below=1"/>
-</a>
-
  <a href="https://github.com/deepakgupta124">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakgupta124&&show_icons=true&title_color=03bafc&icon_color=fc0317&text_color=ffffff&bg_color=111111"/>
 </a>
