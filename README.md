@@ -26,3 +26,12 @@
 <a href="https://www.linkedin.com/in/deepak-gupta-675a1b191/"><img width="60" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </p>
 
+<!---
+references: 
+gif https://media.giphy.com/
+icons https://icons8.com/
+stats https://github.com/anuraghazra/github-readme-stats
+https://github.com/  
+--->
+
+
