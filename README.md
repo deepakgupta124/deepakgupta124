@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left" > Language and Tools </h3>
+<h3 align="left" > Languages and Tools</h3>
 <h4 >C/C++ , Java , Python , Dart , Flutter , Firebase , Github </h4>
 
 <br>
